@@ -12,7 +12,7 @@
 
 Leetcode: [https://leetcode.cn/u/yu-peng-f/](https://leetcode.cn/u/yu-peng-f/)  
 bolg: [https://yuhua2000.github.io/](https://yuhua2000.github.io/)  
-知乎: [https://www.zhihu.com/people/yu-peng-73-72](https://www.zhihu.com/people/yu-peng-73-72)  
+知乎: [https://www.zhihu.com/people/yu-peng-73-72/posts](https://www.zhihu.com/people/yu-peng-73-72/posts)  
 邮箱: [2651034096@qq.com](2651034096@qq.com)  
 
 ## 作品
